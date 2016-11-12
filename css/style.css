@@ -1,0 +1,17 @@
+* {
+  position: absolute; }
+
+.mtn1 {
+  top: 100px; }
+
+.penguin {
+  position: absolute;
+  width: 100px; }
+
+.penguin1 {
+  left: 0; }
+
+.penguin2 {
+  right: 0; }
+
+/*# sourceMappingURL=style.css.map */
